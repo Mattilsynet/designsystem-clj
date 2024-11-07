@@ -6,7 +6,7 @@ som en pakke fra Clojars. I tillegg tilbyr den noen bekvemmelighets-API-er for Ã
 bruke CSS-moduler og laste SVG-er fra Clojure og ClojureScript.
 
 ```clj
-io.mattilsynet/designsystem {:mvn/version "0.0.3.1"}
+io.mattilsynet/designsystem {:mvn/version "0.0.3.2"}
 ```
 
 ## Klasser
