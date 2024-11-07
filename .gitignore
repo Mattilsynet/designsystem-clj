@@ -1,0 +1,7 @@
+.clj-kondo
+.lsp
+node_modules
+/.cpcache/
+/.nrepl-port
+/resources/
+/mattilsynet-designsystem.jar
